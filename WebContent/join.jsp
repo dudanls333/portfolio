@@ -56,11 +56,11 @@
 					</div>
 					<div class="form-group" style="text-align: center;">
 						<div class="btn-group" data-toggle="buttons">
-							<label>
-								<input type="radio" name="userGender" value="남자">남자
+							<label class="btn btn-primary active">
+								<input type="radio" name="userGender" autocomplete="off" value="남자" checked>남자
 							</label>
-							<label>
-								<input type="radio" name="userGender" value="여자">여자
+							<label class="btn btn-primary">
+								<input type="radio" name="userGender" autocomplete="off" value="여지" checked>여자
 							</label>
 						</div>
 					</div>
